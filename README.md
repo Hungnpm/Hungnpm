@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hungnpm
 - 👀 I’m interested in development and orientation related to software and smart devices, programming language
 - 🌱 I’m currently learning C, C++, python
-- 💞️ I’m looking to collaborate on embedded projects
+- 💞️ I’m looking to collaborate on software embedded projects
 - 📫 How to reach me: DM me, please
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Vietnamese, English, approach a lot of technological knowledge, earn money, traveling
