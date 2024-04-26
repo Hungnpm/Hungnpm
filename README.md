@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on embedded projects
 - 📫 How to reach me: DM me, please
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Vietnamese, English, approach more knowledge, earn money, traveling
+- ⚡ Fun fact: Vietnamese, English, approach a lot of technological knowledge, earn money, traveling
 
 <!---
 Hungnpm/Hungnpm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
